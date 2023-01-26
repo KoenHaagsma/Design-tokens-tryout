@@ -1,20 +1,20 @@
 /**
  * Do not edit directly
- * Generated on Thu, 26 Jan 2023 13:56:10 GMT
+ * Generated on Thu, 26 Jan 2023 14:04:15 GMT
  */
 
 :root {
-  --global-white: #fff;
-  --global-black: #1e1e1e;
-  --global-red: #d41a1a;
-  --global-blue: #231db3;
-  --global-green: #64cd13;
-  --global-orange: #cb7810;
-  --global-purple: #960fc9;
-  --global-lightblue: #0dc3b2;
-  --global-full: 100%;
-  --global-half: 50%;
-  --global-quarter: 25%;
-  --global-tenth: 10%;
-  --global-bright-green: #4eff00;
+  --global-color-white: #fff;
+  --global-color-black: #1e1e1e;
+  --global-color-red: #d41a1a;
+  --global-color-blue: #231db3;
+  --global-color-green: #64cd13;
+  --global-color-orange: #cb7810;
+  --global-color-lightblue: #0dc3b2;
+  --global-color-purple: #960fc9;
+  --global-color-brightgreen: #4eff00;
+  --global-opacity-full: 100%;
+  --global-opacity-half: 50%;
+  --global-opacity-quarter: 25%;
+  --global-opacity-tenth: 10%;
 }
